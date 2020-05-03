@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 344A-C706
+
+ Directory of C:\Users\ANILKUMAR\Desktop\Gitworkspace
+
+02-05-2020  22:17    <DIR>          .
+02-05-2020  22:17    <DIR>          ..
+02-05-2020  22:16    <DIR>          .git
+02-05-2020  22:17                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  177,723,588,608 bytes free
